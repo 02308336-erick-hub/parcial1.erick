@@ -1,0 +1,31 @@
+body{
+	background: royalblue;
+	color: white;
+	font-family:arial;
+}
+
+/*titulos centrados*/
+h1, h3, p{
+	text-align: center;
+}
+/*parrafos, deben tener color poweblue,
+ tamaño 18px e interlineado 25px*/
+
+ p{
+ 	color: powderblue;
+ 	font-size: 18px;
+ 	line-height: 25px;
+ }
+
+ /*parrafo 2 color negro,
+  formato negritas y letra inclinada,
+  e interlieado de 15px*/
+
+ .chucky{
+color: rgb(0, 0, 0);
+font-weight: bolder;
+line-height: 15px;
+font-style: italic;
+
+ }
+
